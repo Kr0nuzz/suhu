@@ -29,7 +29,7 @@ def menu():
 	pilih = input("masukkan pilihan: ")
 	
 	if pilih is 1:
-		c1 = input("masukkan nilai")
+		c1 = input("masukkan nilai>>")
 		c = c1
 		f = c1*1.8 + 32
 		k = c1 + 273,5
